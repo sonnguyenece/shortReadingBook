@@ -1,0 +1,27 @@
+body{
+    width: 80%;
+    background: gray;
+    padding: 0;
+    margin-top: 0;
+
+}
+header{
+    text-align: center;
+}
+ol li:hover{
+    color: #0000ff;
+}
+.content{
+    font-size: 25px;
+    text-align: justify;
+}
+.TableContent{
+    font-size: 20px;
+}
+#contentOfTable{
+    margin-left: 40%;
+}
+a{
+    color: #00007b;
+    text-decoration: none;
+}
